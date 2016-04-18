@@ -1,0 +1,10 @@
+{
+	"name": "EntangledChests",
+	"version": "0.1.1",
+	"title": "Entangled Chests - Synched Across SpaceTime",
+	"author": "LithDev",
+	"contact": "MarkRyanDev@gmail.com",
+	"homepage": "https://github.com/MarkRyanDev/EntangledChests",
+	"description": "Mod that adds Entangled Chests, with Synchronized inventories",
+	"dependencies": ["base"]
+}
